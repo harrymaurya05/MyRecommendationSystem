@@ -1,0 +1,1 @@
+hi this is my first git repo i hope you all apreciate this thank you all 
